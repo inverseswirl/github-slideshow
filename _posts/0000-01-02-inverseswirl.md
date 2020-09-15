@@ -2,7 +2,7 @@
 
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Enter the Dragon slide!"
 ---
-This is something new added!
+Your text
 Use the left arrow to go back!
